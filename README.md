@@ -249,8 +249,10 @@ Pneumonia-Detection-Using-Cuda-Computing/
 ## Authors
 
 [Sachaniyahet](https://github.com/Sachaniyahet)
---- 
+---
+
 [Darsh Andharia](https://github.com/DarshAndharia)
+---
 
 ---
 
